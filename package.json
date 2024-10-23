@@ -2,7 +2,7 @@
   "name": "semi-blessed",
   "description": "A fork of BLESSED library with extra features.",
   "author": "Christopher Jeffrey",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "license": "MIT",
   "main": "./lib/blessed.js",
   "bin": "./bin/tput.js",
